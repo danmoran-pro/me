@@ -11,7 +11,7 @@ export default class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(" + 'images/background1.jpg' + ")",
+              <li style={{ backgroundImage: "url(images/background1.jpg )",
                            backgroundPosition: '85% 2%',
                            backgroundSize: 'cover',
                            backgroundRepeat: 'no-repeat'  }}>
