@@ -1,6 +1,5 @@
 {
-  "short_name": "Portfolio app",
-  "name": "Danny's Portfolio app",
+  "name": "portfolio-app",
   "homepage": "https://danmoran-pro.github.io/me",
   "icons": [
     {
